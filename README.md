@@ -54,7 +54,6 @@ The dataset represents ad campaign performance metrics commonly used in digital 
 
 ## 🔧 Tools & Technologies Used
 - **Power BI Desktop** – Data modeling, DAX, and dashboard creation  
-- **Microsoft Excel / Google Sheets** – Data cleaning and preprocessing  
 - **DAX (Data Analysis Expressions)** – Creating calculated measures and KPIs  
 
 ---
@@ -66,8 +65,6 @@ The following preprocessing steps were performed:
 - Created calculated measures for:
   - CTR (Click-Through Rate)
   - CPC (Cost Per Click)
-  - ROI (Return on Investment)
-- Standardized categorical fields (campaign, region, device)  
 - Structured data for effective filtering and slicing  
 
 ---
@@ -86,15 +83,7 @@ The following preprocessing steps were performed:
 - A small number of ads contribute to a majority of total clicks and revenue  
 - Certain audience segments show higher CTR and conversion rates  
 - High spend does not always guarantee high ROI  
-- Device type and region significantly influence ad performance  
 - Insights can be used to optimize targeting and budget allocation  
-
----
-
-## 📚 References & Acknowledgements
-- Kaggle – Marketing & Ads Performance Datasets  
-- Facebook / Instagram Ads Manager (metric reference)  
-- **Future Interns – Data Science & Analytics Internship Program**
 
 ---
 
