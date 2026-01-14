@@ -39,21 +39,16 @@ The Power BI dashboard includes:
 
 The dataset represents ad campaign performance metrics commonly used in digital marketing analysis.
 
-### Column Description
+### Major Column Description
 
 | Column Name | Description |
 |------------|------------|
-| Campaign Name | Name of the ad campaign |
 | Ad ID | Unique identifier for each ad |
 | Impressions | Number of times the ad was shown |
-| Reach | Number of unique users reached |
 | Clicks | Total number of ad clicks |
-| Amount Spent | Total cost of the ad campaign |
+| Spent | Total cost of the ad campaign |
 | Conversions | Number of successful actions |
-| Revenue | Revenue generated from the campaign |
 | Age Group | Age segment of the audience |
-| Region | Geographic location |
-| Device | Device type used (Mobile/Desktop) |
 
 ---
 
