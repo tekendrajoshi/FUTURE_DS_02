@@ -26,8 +26,7 @@ The Power BI dashboard includes:
 - Overall ROI  
 
 ### Visual Insights
-- 📈 Campaign-wise performance trends  
-- 🎯 Top-performing ads by clicks and engagement  
+- 📈 Campaign-wise performance trends
 - 💰 Spend vs Revenue comparison  
 - 📊 CTR and ROI analysis  
 - 🧭 Performance breakdown by age group, region, and device  
